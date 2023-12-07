@@ -1,2 +1,1 @@
 No ambiente de computação em nuvem da AWS, é fundamental manter uma organização eficiente dos recursos e informações cruciais. Nesse contexto, o diretório destinado aos relatórios informativos desempenha um papel central. Este diretório específico é projetado para armazenar documentos que fornecem insights detalhados sobre o desempenho operacional, custos, segurança e conformidade dos recursos AWS utilizados.
-
